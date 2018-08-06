@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class = "container-A" bindtap='clickA'>container-A
+  <view class='container-B' bindtap='clickB'>container-B
+    <view class='container-C' bindtap='clickC'>container-C</view>
+  </view>
+
+</view>

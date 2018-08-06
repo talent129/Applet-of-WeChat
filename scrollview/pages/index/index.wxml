@@ -1,0 +1,10 @@
+<!--index.wxml-->
+
+<view>scroll-view</view>
+<view class='section'>
+  <view class='section_title'>竖向滚动</view>
+  <scroll-view style='height: 200px;'
+  scroll-y
+  bindscrolltou>
+  </scroll-view>
+</view>
